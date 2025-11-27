@@ -1,0 +1,99 @@
+Aluno: Henrique Lino do Nascimento
+Eng. de Soft. 2 Período
+
+Sistemas Operacionais
+
+Caso do Linux e Open Source
+
+1. Quais são as vantagens e limitações de se utilizar software freeware ou de fonte aberta como o Linux?
+
+Vantagens:
+
+Custo baixo ou zero (economia gigante para empresas).
+
+Confiabilidade (comunidade grande corrigindo erros).
+
+Rapidez e bom desempenho (especialmente em servidores).
+
+Flexibilidade (pode adaptar o sistema às próprias necessidades).
+
+Menos travamentos e maior estabilidade (comparado ao Windows NT, segundo o texto).
+
+Limitações:
+
+Necessidade de conhecimento técnico maior para instalar, configurar e dar manutenção.
+
+Resistência inicial das empresas por ser diferente do padrão comercial.
+
+Menos softwares comerciais disponíveis na época.
+
+Menos suporte profissional (embora isso estivesse mudando).
+
+2. Por que empresas como a Jay Jacobs e a Burlington estão optando pelo Linux ao invés do Windows NT?
+
+Porque o Linux estava oferecendo um custo TOTAL menor:
+
+Instalar Linux nas 120 lojas da Jay Jacobs economizou cerca de 80 mil dólares, comparado a usar outro sistema.
+
+Burlington economizou milhares de dólares por loja ao trocar Windows NT por Linux.
+
+O desempenho do Linux era tão bom ou melhor e a manutenção era muito mais barata.
+
+Linux era visto como “rápido como o vento” e muito estável.
+
+Ou seja: economia + desempenho + estabilidade.
+
+3. O desenvolvimento do Linux demonstra uma mudança maior no desenvolvimento de softwares? Por quê?
+
+Sim. Ele mostra:
+
+A força do modelo colaborativo (open source).
+
+A ideia de que comunidades globais podem criar sistemas tão bons (ou melhores) que softwares pagos.
+
+Uma nova forma de desenvolvimento focada em transparência, melhoria contínua e código aberto.
+
+Empresas começando a confiar em algo não-proprietário, o que antes era impensável.
+
+É uma virada cultural no jeito de criar e usar software.
+
+Armazenamento de dados e EMC
+4. Por que o comércio eletrônico está aumentando enormemente a necessidade de armazenamento de dados?
+
+Porque:
+
+Cada compra, clique, cadastro, transação e navegação gera dados.
+
+Empresas precisam guardar tudo com segurança.
+
+O comércio eletrônico depende de informações rápidas, confiáveis e disponíveis 24/7.
+
+Quanto mais pessoas comprando online, mais dados são criados e precisam ser armazenados.
+
+5. Por que existe uma demanda intensa por armazenamento de dados em muitas empresas além do comércio eletrônico?
+
+Porque:
+
+Empresas geram e armazenam fotos, vídeos, preços, relatórios, transações, backups, registros financeiros, comunicações, etc.
+
+Corporações gigantes como bancos, telecoms e serviços de saúde produzem dados críticos.
+
+A internet inteira começou a exigir armazenamento rápido e confiável.
+
+Dados viraram um ativo estratégico — quem tem e controla dados, domina o mercado.
+
+6. Como as tecnologias de armazenamento da EMC ajudaram a aumentar o valor comercial dos recursos de dados em empresas?
+
+A EMC aumentou o valor porque fornecia:
+
+Equipamentos avançados, muito rápidos e confiáveis (discos magnéticos interligados).
+
+Tecnologia SAN, permitindo acesso amplo e veloz aos dados.
+
+Soluções de backup e redundância, garantindo segurança e disponibilidade.
+
+Software inteligente que administrava enormes volumes de dados.
+
+Uma estrutura que permitia às empresas usar dados para decisões, vendas, transações e operações sem risco de perder informação.
+
+Em resumo: a EMC transformou dados em um ativo seguro, rápido e valioso, impulsionando os negócios.
